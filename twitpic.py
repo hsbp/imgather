@@ -6,7 +6,6 @@ Author: András Veres-Szentkirályi <vsza@vsza.hu>
 License: MIT
 """
 
-from __future__ import with_statement
 try:
     from cStringIO import StringIO
 except ImportError:
